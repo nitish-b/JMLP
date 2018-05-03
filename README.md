@@ -22,4 +22,4 @@ Happy learning! :)
 
 ## LICENSE
 
-The JMLP and evrything related to it is licensed under GPL v2.0.
+The JMLP and everything related to it is licensed under GPL v2.0.
