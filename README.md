@@ -10,12 +10,16 @@ http://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.
 
 ## Running JMLP
 
-Click on the JMLP.jar or run
-
-``` java -jar JMLP.jar ```
-
-Make sure the directories ``` output``` and ``` StudentSolutionBase ``` is in the same directory as that of the jar file.
+Currently, the source code of JMLP, as an IDEA project is available.
+Clone the repository, import it into IntelliJ or create a project in your favorite IDE, copy the code, and
+build it, and run it.
 
 Once you start running the JMLP, click on any of the algorithms that you want to proactise and code away....
 
+We are working on creating a jar of this project and will be made available soon.
+
 Happy learning! :)
+
+## LICENSE
+
+The JMLP and evrything related to it is licensed under GPL v2.0.

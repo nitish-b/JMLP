@@ -1,0 +1,71 @@
+1>NaiveBayesTraining1
+
+Class Value:
+0- Chinese
+1- Japan
+
+Attributes:: 1
+=Words
+
+Link::https://www.youtube.com/watch?v=km2LoOpdB3A
+
+
+2>NaiveBayesTraining2
+
+Class Value::
+1- English
+0- Non English
+
+
+Attributes:: 1= Words
+
+Link:: https://github.com/datumbox/NaiveBayesClassifier/tree/master/resources/datasets
+
+3>NaiveBayesTraining3
+
+Class Value
+0=Diabetes is not present
+1=Diabetes is present
+
+Attributes:: 3
+=
+Number of times pregnant
+Blood Pressure
+Age
+Link:: https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/
+
+
+4>NaiveBayesTraining4
+
+Class Value
+Income >50K =0
+Income <=50K =1
+
+Attributes:: 4
+=
+age
+workclass
+Education
+sex
+
+Link:: https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data
+https://archive.ics.uci.edu/ml/datasets/Adult
+
+5>NaiveBayesTraining5
+
+  Class Value
+
+ Contraceptive method used::
+  0=No-use,
+  1=Use,
+
+
+ Attributes::
+
+
+1. Wife's age (numerical)
+2. Wife's education (categorical) 1=low, 2, 3, 4=high rical)
+3. Wife's religion 0=Non-Islam, 1=Islam
+4. Standard-of-living index (categorical) 1=low, 2, 3, 4=high
+
+Link::https://archive.ics.uci.edu/ml/datasets/Contraceptive+Method+Choice
