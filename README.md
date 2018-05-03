@@ -1,6 +1,6 @@
 # JMLP - A Machine Learning Tool for Students and Instructors
 
-JMLP (short for Java Machine Learning Project) is a tool created to enable students and instructors alike to learn and teach Machine Learning respectively. The goal is to enable students learn machine learning by providing immediate feedback helping them find and correct their errors in their implementations; and enable instructors to evaluate a large and diverse class of students, making it ideal for online classrooms such as MOOCs. It provides instrctors with statistics and information of the student performance.
+JMLP (Java Machine Learning Project) is a tool created to enable students and instructors alike to learn and teach Machine Learning respectively. The goal is to enable students learn machine learning by providing immediate feedback helping them find and correct their errors in their implementations; and enable instructors to evaluate a large and diverse class of students, making it ideal for online classrooms such as MOOCs. It provides instrctors with statistics and information of the student performance.
 
 ## Environment Setup for running JMLP
 
